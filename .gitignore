@@ -1,3 +1,23 @@
-venv*
-.vscode
+
+# editors and ide
+.idea/
+.vscode/
+
+
+# testing
+/coverage
+
+# production
+build
+bin
+
+# database
+data/
+
+
+PDF
+
+venv
 __pycache__*
+
+**/__pycache__/ 
